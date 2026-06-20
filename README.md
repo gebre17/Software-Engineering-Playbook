@@ -97,4 +97,4 @@ See [ROADMAP.md](ROADMAP.md) for planned topics and milestones.
 
 ---
 
-*Last updated: June 2026*
+*Last updated: June 20, 2026*
